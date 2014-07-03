@@ -5,8 +5,8 @@ We are passionate and focus on the working for financial market with ceating too
 
 # Contributors
 
-[Sheng Li][1] (fairsky66)
-[Liu Yang][2] (yla215)
+[Sheng Li](https://github.com/fairsky66) (fairsky66)
+[Liu Yang](https://github.com/yla215) (yla215)
 
 [1]: (https://github.com/fairsky66)
 [2]: (https://github.com/yla215)
