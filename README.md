@@ -1,6 +1,7 @@
 # iFinance Tools
 This is a list of financial tools developed and used by several authors.
 
+We are passionate and focus on the working for financial market with ceating tools, collaborations, etc.
 
 # Contributors
 
